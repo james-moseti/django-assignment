@@ -13,4 +13,5 @@
 
 ### Demo Screeshots
 
-![Website Desktop Demo](./readme-images/desktop_home.png "Desktop Demo")
+![Website Desktop Demo](./readme-images/desktop_home.png "Desktop Home Demo")
+![Website Desktop Demo](./readme-images/desktop_about.png "Desktop About Demo")
